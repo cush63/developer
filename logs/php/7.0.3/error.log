@@ -1,0 +1,14 @@
+[05-Dec-2016 15:21:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/divi-builder/core/admin/includes/class-portability.php on line 417
+[05-Dec-2016 15:21:57 UTC] PHP Stack trace:
+[05-Dec-2016 15:21:57 UTC] PHP   1. {main}() /app/public/wp-admin/admin-ajax.php:0
+[05-Dec-2016 15:21:57 UTC] PHP   2. do_action() /app/public/wp-admin/admin-ajax.php:91
+[05-Dec-2016 15:21:57 UTC] PHP   3. et_core_portability_ajax_import() /app/public/wp-includes/plugin.php:524
+[05-Dec-2016 15:21:57 UTC] PHP   4. ET_Core_Portability->import() /app/public/wp-content/plugins/divi-builder/core/admin/includes/portability.php:133
+[05-Dec-2016 15:21:57 UTC] PHP   5. ET_Core_Portability->apply_query() /app/public/wp-content/plugins/divi-builder/core/admin/includes/class-portability.php:76
+[05-Dec-2016 15:22:23 UTC] PHP Warning:  Invalid argument supplied for foreach() in /app/public/wp-content/plugins/divi-builder/core/admin/includes/class-portability.php on line 417
+[05-Dec-2016 15:22:23 UTC] PHP Stack trace:
+[05-Dec-2016 15:22:23 UTC] PHP   1. {main}() /app/public/wp-admin/admin-ajax.php:0
+[05-Dec-2016 15:22:23 UTC] PHP   2. do_action() /app/public/wp-admin/admin-ajax.php:91
+[05-Dec-2016 15:22:23 UTC] PHP   3. et_core_portability_ajax_import() /app/public/wp-includes/plugin.php:524
+[05-Dec-2016 15:22:23 UTC] PHP   4. ET_Core_Portability->import() /app/public/wp-content/plugins/divi-builder/core/admin/includes/portability.php:133
+[05-Dec-2016 15:22:23 UTC] PHP   5. ET_Core_Portability->apply_query() /app/public/wp-content/plugins/divi-builder/core/admin/includes/class-portability.php:76
